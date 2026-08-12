@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/karlr/OneDrive/Documents/education/ENSEIRB/Projets/Plante/Capteur_plante/include",
                 "C:/Users/karlr/OneDrive/Documents/education/ENSEIRB/Projets/Plante/Capteur_plante/src",
+                "C:/Users/karlr/OneDrive/Documents/education/ENSEIRB/Projets/Plante/Capteur_plante/include",
                 "C:/Users/karlr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/karlr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/karlr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -246,8 +246,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/karlr/OneDrive/Documents/education/ENSEIRB/Projets/Plante/Capteur_plante/include",
                     "C:/Users/karlr/OneDrive/Documents/education/ENSEIRB/Projets/Plante/Capteur_plante/src",
+                    "C:/Users/karlr/OneDrive/Documents/education/ENSEIRB/Projets/Plante/Capteur_plante/include",
                     "C:/Users/karlr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/karlr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/karlr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
