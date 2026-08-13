@@ -60,3 +60,9 @@ Grâce à la structure modulaire de l'étape 4, cette phase devient un ajout, pa
 Le plus simple : l'ESP32 monte un petit serveur web local (mode point d'accès WiFi) accessible depuis ton téléphone, qui lit/écrit le fichier de config et affiche l'historique de mesures
 Version plus poussée : connexion à ton WiFi domestique + dashboard accessible à distance (MQTT ou HTTP vers un petit serveur, comme dans le projet IoT dont on avait parlé)
 Si un jour tu veux automatiser l'arrosage, tu ajoutes juste un module actionneur.c/h (relais + pompe) qui lit les seuils dans config — le reste du système ne change pas
+
+# LOG
+
+## 13/08/2026
+
+Le programme a été testé en local avec PlatformIO pour vérifier si la logique était ok et si le code compilait correctement. Il faut le matériel assemblé afin de vérifier son bon fonctionnement.
