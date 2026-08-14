@@ -66,3 +66,6 @@ Si un jour tu veux automatiser l'arrosage, tu ajoutes juste un module actionneur
 ## 13/08/2026
 
 Le programme a été testé en local avec PlatformIO pour vérifier si la logique était ok et si le code compilait correctement. Il faut le matériel assemblé afin de vérifier son bon fonctionnement.
+
+
+**test**
